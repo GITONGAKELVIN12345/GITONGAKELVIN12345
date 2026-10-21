@@ -1,3 +1,13 @@
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kelvin+Gitonga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kelvin+Gitonga+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+%F0%9F%91%BE;Cybersecurity+Enthusiast+%F0%9F%94%90;Learning+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Securing+Systems+Through+Knowledge+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <br><br>🔭 I’m currently working on practical software projects, web applications, and AI-powered solutions to solve real-world problems. 👯 I’m looking to collaborate on open-source projects, AI-driven applications, and innovative software development initiatives where I can learn and grow with other developers. 🤝 I’m looking for help with Artificial Intelligence, Machine Learning, system design, and building scalable, secure applications. 🌱 I’m currently learning Java, JavaScript, database management, AI/ML, and Software Quality Assurance as I continue my Software Engineering journey. 💬 Ask me about Java, web development, databases, software development, and my journey into technology. ⚡ Fun fact: I believe every great developer starts somewhere, and I’m committed to learning consistently, building real-world projects, and turning ideas into working solutions — one line of code at a time. 🚀
 
